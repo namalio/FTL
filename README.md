@@ -24,8 +24,7 @@ for Rigorous Model-driven Development.] (docs/ifm05-ENTCS) ENTCS 191 (3): 3-23
 security monitoring and threat detection.] (docs/P1Days09) SECURWARE '08: 185-192
 
 [5] Asmiza Abdul Sani, Fiona Polack and Richard Paige.
-[Model transformation specification for automated formal verification]
-(http://dx.doi.org/10.1109/MySEC.2011.6140647)  
+[Model transformation specification for automated formal verification.](http://dx.doi.org/10.1109/MySEC.2011.6140647)  
 (MySEC): 5th Malaysian Conference. 2011
 
 [6] Khaled Mahbub, George Spanoudakis and Theocharis Tsigkritis.
