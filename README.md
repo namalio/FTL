@@ -3,9 +3,9 @@ This the repository of the Formal Template Language (FTL) [1, 2, 3], a formal la
 
 #References
 [1] Nuno Amálio, Fiona Polack and Susan Stepney. [A Formal Template Language enabling Metaproof.] (docs/ftlmp-paper.pdf)
-In FM2006. 
+In FM2006.
 
-[2] Nuno Amálio. [Generative frameworks for rigorous model-driven development.] PhD
-thesis, Dept. Computer Science, Univ. of York (2007) (docs/thesis.pdf)
+[2] Nuno Amálio. [Generative frameworks for rigorous model-driven development.] (docs/thesis.pdf) PhD
+thesis, Dept. Computer Science, Univ. of York (2007)
 
-[3] Nuno Amálio, Christian Glodt, Frederico Pinto and Pierre Kelsen. [Platform-Variant Applications from Platform-Independent Models via Templates.] ENTCS 279(3): 3-25 (docs/ENTCS-2011)
+[3] Nuno Amálio, Christian Glodt, Frederico Pinto and Pierre Kelsen. [Platform-Variant Applications from Platform-Independent Models via Templates.] (docs/ENTCS-2011) ENTCS 279(3): 3-25 
